@@ -1,0 +1,17 @@
+.header {
+    height: 80px;
+    background-color: darkgreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px
+
+}
+.header-logo {
+    font-size: 18px;
+    padding-left: 30px; 
+}
+
+.header-links {
+    font-size: 18px;
+    padding-right: 30px;
+}
